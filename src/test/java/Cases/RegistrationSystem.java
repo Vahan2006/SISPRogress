@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 public class RegistrationSystem {
 
-    private static AndroidDriver driver;
+    private AndroidDriver driver;
     @BeforeClass
     public void setUp(){
         DesiredCapabilities capabilities = new DesiredCapabilities();

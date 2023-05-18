@@ -33,7 +33,6 @@ public class GeneralMethods {
             throw new RuntimeException(e);
         }
     }
-
     public void clickByCoordinate(int x, int y){
         TouchAction touchAction = new TouchAction(driver);
         touchAction.tap(PointOption.point(x,y)).perform();
