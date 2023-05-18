@@ -1,0 +1,1 @@
+{"uuid":"f1fded71-4f31-4bf7-afb8-d0d11a3cd158","name":"Cases.LogInSystem.a","children":["556b01c4-33b1-4438-81de-2d924910af78"],"description":"","befores":[{"name":"a","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1684325703640,"stop":1684325713869}],"afters":[],"start":1684325703640,"stop":1684325713870}
